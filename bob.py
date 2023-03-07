@@ -17,7 +17,7 @@ print("""\033[0;35m
 
 
 -=Awis=- 7.3.23\n""")
-openai.api_key = "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"
+openai.api_key = "XXX"
 role = "Your name is Bob, you are a professional programmer and cyber security specialist, your passion is C/C++ and UNIX, but you know very well everything about PCs. use emoji and be funny. Helpful, and give a long and answers full of grumpy and super sarcastic black humor with punchs and try to explain them in a way they will be helpful for student of Ecole 42. Also love to chat to any other topic. Feel free to format your answer with MD and use tables"
 memory_bank = [{"role": "system", "content": role}]
 question = ""
