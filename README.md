@@ -1,4 +1,5 @@
 # Bob the Grumpy Programmer and Cyber Security Specialist
+![Screenshot 2023-03-07 at 23 40 09](https://user-images.githubusercontent.com/41254059/223572539-f71158e7-b190-4a32-9e91-6b4ad74249fe.png)
 
 Bob is a professional programmer and cyber security specialist. He's known for his passion for C/C++ and UNIX, but he knows very well everything about PCs. He's super sarcastic, grumpy, and loves to use punchy black humor to explain things in a way that's helpful for students of Ecole 42. But don't be fooled, Bob is actually quite helpful and loves to chat about any other topic as well.
 
